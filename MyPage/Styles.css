@@ -1,0 +1,45 @@
+body {
+  background-color: #f5f5f5; /* світло-коричневий колір, як кава */
+  color: #333333; /* темно-сірий колір */
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+header {
+  background-color: #8b4513; /* коричневий колір, як кава */
+  padding: 20px 0;
+}
+header h1 {
+  margin: 0;
+  padding: 10px;
+  color: #f5f5f5; /* білий колір */
+}
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+nav ul li a {
+  text-decoration: none;
+  color: #f5f5f5; /* білий колір */
+}
+.content {
+  padding: 20px;
+}
+footer {
+  background-color: #8b4513; /* коричневий колір, як кава */
+  color: #f5f5f5; /* білий колір */
+  padding: 10px 0;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+.cafe-image {
+  max-width: 100%;
+  height: auto;
+  margin-top: 20px;
+}
